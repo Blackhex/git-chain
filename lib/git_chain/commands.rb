@@ -1,5 +1,6 @@
 module GitChain
   module Commands
+    autoload :Add, 'git_chain/commands/add'
     autoload :Branch, 'git_chain/commands/branch'
     autoload :Command, 'git_chain/commands/command'
     autoload :List, 'git_chain/commands/list'
