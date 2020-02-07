@@ -1,10 +1,1 @@
-build
-.bundle
-
-.byebug_history
-.console_history
-
-.rubocop-*
-
-test/reports
-/demo
+foo
